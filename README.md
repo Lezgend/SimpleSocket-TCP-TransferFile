@@ -19,8 +19,8 @@ python tfClient.py
 
 After that, you have to give the input for it.
 ```bash
-What File do you need, please enter the name: ***rose.png***
-Enter file name to save requested file: ***getRose.png***
+What File do you need, please enter the name: rose.png
+Enter file name to save requested file: getRose.png
 ```
 
-## THAT'S IT! EASY?
+THAT'S IT! EASY?
