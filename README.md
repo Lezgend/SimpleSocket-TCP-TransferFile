@@ -1,6 +1,6 @@
 # Transfer File in the Network using Sockets in Python (TCP)
 
-How to use?
+## Usage
 
 First, we gonna need to clone this repository.
 ```bash
@@ -17,10 +17,10 @@ python tfServer.py
 python tfClient.py
 ```
 
-After that, you have to give the input for it.
+After that, you have to give some input on it.
 ```
 What File do you need, please enter the name: rose.png
 Enter file name to save requested file: getRose.png
 ```
 
-THAT'S IT! EASY?
+<b>THAT'S IT! EASY?</b>
